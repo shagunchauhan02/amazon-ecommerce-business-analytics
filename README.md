@@ -1,144 +1,98 @@
-# 🛒 Amazon E-Commerce Business Analytics
-
-An end-to-end E-Commerce Business Analytics project built using **Python, SQL, PostgreSQL, and Power BI** to analyze sales performance, customer behavior, product performance, payments, reviews, and delivery operations.
-
+# 🛒 E-Commerce Business Analytics Dashboard
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
-
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-KPI%20Analysis-FF8C00?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>End-to-End E-Commerce Data Analytics & Business Intelligence Project</b>
+  <b>Interactive E-Commerce Business Intelligence Dashboard for Sales, Customers, Products & Performance Analysis</b>
 </p>
 
 <p align="center">
-  Turning raw e-commerce data into actionable business insights using Python, SQL and Power BI.
+  An end-to-end analytics project transforming raw e-commerce data into actionable business insights using Python, SQL, PostgreSQL and Power BI.
 </p>
 
 ---
 
----
+## 🚀 Project Overview
 
-## 📌 Project Overview
+The **E-Commerce Business Analytics Dashboard** is an end-to-end **Data Analytics and Business Intelligence project** built using **Python, SQL, PostgreSQL and Power BI**.
 
-This project focuses on analyzing e-commerce transaction data to generate meaningful business insights and build an interactive Business Intelligence solution.
+The project transforms raw e-commerce data into meaningful business insights by analyzing:
 
-The project covers the complete analytics workflow:
+* Sales and revenue performance
+* Customer behavior
+* Product performance
+* Product categories
+* Payment preferences
+* Customer reviews
+* Delivery performance
+* Geographic trends
+* Time-based business performance
 
-**Data Cleaning → Exploratory Data Analysis → SQL Analysis → Feature Engineering → KPI Development → Power BI Dashboard → Business Insights**
-
-The analysis combines information related to:
-
-- Customers
-- Orders
-- Products
-- Sellers
-- Payments
-- Reviews
-- Product categories
-- Delivery performance
-- Geographic information
-
-The final dataset contains **118K+ records across 39 business attributes**.
+The project demonstrates a complete **Data Analytics & Business Intelligence workflow** covering data cleaning, exploratory data analysis, SQL analysis, feature engineering, KPI development, DAX calculations and interactive dashboard visualization.
 
 ---
 
 ## 🎯 Business Objectives
 
-The main objectives of this project are to:
+The main objectives of this project were to:
 
-- Analyze overall sales and revenue performance
-- Identify monthly and yearly sales trends
-- Understand customer purchasing behavior
-- Identify top-performing products and categories
-- Analyze customer and seller geographic performance
-- Understand payment preferences
-- Evaluate delivery performance
-- Analyze customer reviews and ratings
-- Identify repeat and high-value customers
-- Build interactive dashboards for business decision-making
+* 📈 Analyze overall sales and revenue performance
+* 💰 Monitor important business KPIs
+* 🏆 Identify top-performing products and categories
+* 👥 Analyze customer behavior and purchasing patterns
+* 🌎 Analyze geographic and regional performance
+* 📅 Identify sales and order trends over time
+* 💳 Understand customer payment preferences
+* ⭐ Analyze customer review performance
+* 🚚 Evaluate delivery performance
+* 🔎 Support data-driven business decision making
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
-| Technology | Purpose |
-|------------|---------|
+| Tool | Purpose |
+|------|---------|
 | **Python** | Data cleaning, EDA and feature engineering |
 | **Pandas** | Data manipulation and transformation |
 | **NumPy** | Numerical analysis |
 | **Matplotlib** | Data visualization |
-| **PostgreSQL** | Database management and SQL analysis |
-| **SQL** | Business analysis and KPI queries |
-| **Power BI** | Interactive dashboards and visualization |
-| **DAX** | KPI and measure creation |
-| **Power Query** | Data transformation and cleaning |
-| **Excel** | Data inspection and supporting analysis |
+| **PostgreSQL** | Database management and analysis |
+| **SQL** | Business analysis and data querying |
+| **Power BI** | Dashboard development and visualization |
+| **DAX** | KPI calculations and business measures |
+| **Power Query** | Data cleaning and transformation |
+| **Excel** | Data preparation and validation |
 | **Git & GitHub** | Version control and project management |
 
 ---
 
-# 📊 Dataset
-
-The project uses an e-commerce dataset containing multiple interconnected business entities.
-
-### Main Data Areas
-
-- Customer information
-- Order information
-- Product information
-- Seller information
-- Payment information
-- Customer reviews
-- Product categories
-- Geographic information
-- Delivery information
-
-### Dataset Scale
-
-- **118,000+ transaction records**
-- **39 business attributes**
-- Multiple dimensions covering customers, products, orders, sellers, payments and reviews
-
-> Raw dataset files are not included in this repository to keep the repository lightweight. The project structure and analysis workflow are provided for reproducibility.
-
----
-
-# 🔄 Project Workflow
+## 📊 Project Workflow
 
 ```text
-                E-Commerce Dataset
-                        │
-                        ▼
-                Data Collection
-                        │
-                        ▼
-                Data Cleaning
-                        │
-                        ▼
-          Exploratory Data Analysis
-                        │
-                        ▼
-             PostgreSQL Database
-                        │
-                        ▼
-                 SQL Analysis
-                        │
-                        ▼
-              Feature Engineering
-                        │
-                        ▼
-                  KPI Creation
-                        │
-                        ▼
-                Power BI Dashboard
-                        │
-                        ▼
-               Business Insights
+Raw E-Commerce Data
+        ↓
+Data Understanding
+        ↓
+Data Cleaning & Preparation
+        ↓
+Exploratory Data Analysis
+        ↓
+PostgreSQL Database
+        ↓
+SQL Business Analysis
+        ↓
+Feature Engineering
+        ↓
+DAX Measures & KPIs
+        ↓
+Power BI Dashboard
+        ↓
+Interactive Business Insights
