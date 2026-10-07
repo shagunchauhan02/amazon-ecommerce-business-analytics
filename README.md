@@ -2,6 +2,28 @@
 
 An end-to-end E-Commerce Business Analytics project built using **Python, SQL, PostgreSQL, and Power BI** to analyze sales performance, customer behavior, product performance, payments, reviews, and delivery operations.
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
+
+</p>
+
+<p align="center">
+  <b>End-to-End E-Commerce Data Analytics & Business Intelligence Project</b>
+</p>
+
+<p align="center">
+  Turning raw e-commerce data into actionable business insights using Python, SQL and Power BI.
+</p>
+
+---
+
 ---
 
 ## 📌 Project Overview
