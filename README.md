@@ -30,7 +30,7 @@
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="reports/dashboard_screenshots/executive_dashboard.png" width="100%" />
+  <img src="executive_dashboard.png" width="100%" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  <img src="reports/dashboard_screenshots/sales_dashboard.png" width="100%" />
+  <img src="sales_dashboard.png" width="100%" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 <br>
 
 <p align="center">
-  <img src="reports/dashboard_screenshots/customer_dashboard.png" width="100%" />
+  <img src="customer_dashboard.png" width="100%" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 <br>
 
 <p align="center">
-  <img src="reports/dashboard_screenshots/product_dashboard.png" width="100%" />
+  <img src="product_dashboard.png" width="100%" />
 </p>
 
 <p align="center">
