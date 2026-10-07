@@ -1,4 +1,4 @@
-# 💜 E-Commerce Business Analytics Dashboard
+# E-Commerce Business Analytics Dashboard
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&section=header&text=E-Commerce%20Business%20Analytics&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
